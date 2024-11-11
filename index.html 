@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why Brownies are My Comfort Dessert</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Why Brownies are My Comfort Dessert</h1>
+        <p>The rich chocolate treat that brings back sweet family memories</p>
+    </header>
+
+    <!-- Hero Image -->
+    <div class="hero">
+        <img src="https://via.placeholder.com/800x400" alt="Brownies with a glass of milk">
+    </div>
+
+    <!-- Introduction Section -->
+    <div class="section">
+        <h2>My Favorite Dessert</h2>
+        <p>Brownies have been my favorite dessert since childhood. Each bite of these gooey, chocolatey squares brings back memories of family movie nights and the cozy, comforting feeling of home.</p>
+    </div>
+
+    <!-- Brownie Story Section -->
+    <div class="section">
+        <h2>More Than Just a Dessert</h2>
+        <p>Brownies are a special treat in my family. My sister used to make them for us with a scoop of mint chocolate chip ice cream on top. Now, I prefer them with a cold glass of milk, but the comfort they bring hasn’t changed—they’re my go-to for soothing away stress and worry.</p>
+    </div>
+
+    <!-- Family Memories Section -->
+    <div class="section">
+        <h2>The Magic of Movie Nights</h2>
+        <p>For me, brownies mean family time. They take me back to crowded couches on movie nights, where we’d all share bites even though every piece tasted the same. Those evenings are some of my favorite memories.</p>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        &copy; 2024 Zain Mohamed - Celebrating the comfort of brownies and family memories
+    </footer>
+
+</body>
+</html>
